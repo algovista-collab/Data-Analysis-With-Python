@@ -48,7 +48,3 @@ The Adult dataset contains U.S. Census data and is commonly used for classificat
    jupyter notebook "Data Analysis Project.ipynb"
    ```
 4. Run the cells in order to reproduce the analysis.
-
-## License
-
-No license has been specified for this repository. Feel free to reach out to the repository owner if you'd like to use this work.
